@@ -1,3 +1,6 @@
 [submodule "microservices/order"]
 	path = microservices/order
 	url = https://github.com/glaufercharao/ems-gsamshop-order.git
+[submodule "docs"]
+	path = docs
+	url = https://github.com/glaufercharao/ems-gsamshop-docs.git
